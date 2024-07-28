@@ -11,7 +11,7 @@ Skin cancer is a global health concern with increasing incidence rates. Early de
 
 ## Heatmaps:
 
-![image](https://github.com/user-attachments/assets/383172ad-d6f6-46cb-8516-89066e20443f)
+![image](https://github.com/user-attachments/assets/ce55a757-0d7b-403a-b2db-aed49ba47b40)
 
 ![image](https://github.com/user-attachments/assets/adf33516-4bed-4dc0-bfa9-563295a09085)
 
