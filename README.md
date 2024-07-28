@@ -1,6 +1,6 @@
 # Skin-Cancer-Detection
 
-## Title: Enhancing Skin Cancer Diagnosis with Pre-trained Models: A Comparative Study Using ISIC-2024 and HAM10K
+## Title: Enhancing Skin Cancer Diagnosis with Pre-trained Models: A Comparative Study Using HAM10K
 
 
 ## Abstract
