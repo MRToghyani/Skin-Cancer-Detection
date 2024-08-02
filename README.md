@@ -23,9 +23,9 @@ Skin cancer is a global health concern with increasing incidence rates. Early de
 ## Team Members:
 * MohammadReza Toghyani
 * Mohammad Sadegh Fallahi
-Zhanna Osipova
-Francisco Javier Ordoñez Araujo
-Karan Khandekar
+* Zhanna Osipova
+* Francisco Javier Ordoñez Araujo
+* Karan Khandekar
 
 
 
