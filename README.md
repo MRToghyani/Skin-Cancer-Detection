@@ -1,4 +1,4 @@
-# Skin-Cancer-Detection
+![image](https://github.com/user-attachments/assets/28db8896-dcb5-4640-9d6b-43c6deafe801)# Skin-Cancer-Detection
 
 ## Title: Enhancing Skin Cancer Diagnosis with Pre-trained Models: A Comparative Study Using HAM10K
 
@@ -14,6 +14,18 @@ Skin cancer is a global health concern with increasing incidence rates. Early de
 ![image](https://github.com/user-attachments/assets/ce55a757-0d7b-403a-b2db-aed49ba47b40)
 
 ![image](https://github.com/user-attachments/assets/adf33516-4bed-4dc0-bfa9-563295a09085)
+
+## Presentation:
+
+[Transfer Learning for Skin Lesions Classification.pdf](https://github.com/user-attachments/files/16470122/Transfer.Learning.for.Skin.Lesions.Classification.pdf)
+
+
+## Team Members:
+MohammadReza Toghyani
+Mohammad Sadegh Fallahi
+Zhanna Osipova
+Francisco Javier Ordoñez Araujo
+Karan Khandekar
 
 
 
