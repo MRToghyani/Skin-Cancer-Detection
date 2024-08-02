@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/28db8896-dcb5-4640-9d6b-43c6deafe801)# Skin-Cancer-Detection
+# Skin-Cancer-Detection
 
 ## Title: Enhancing Skin Cancer Diagnosis with Pre-trained Models: A Comparative Study Using HAM10K
 
@@ -21,8 +21,8 @@ Skin cancer is a global health concern with increasing incidence rates. Early de
 
 
 ## Team Members:
-MohammadReza Toghyani
-Mohammad Sadegh Fallahi
+* MohammadReza Toghyani
+* Mohammad Sadegh Fallahi
 Zhanna Osipova
 Francisco Javier Ordoñez Araujo
 Karan Khandekar
