@@ -1,6 +1,6 @@
 # Skin-Cancer-Detection
 
-## Title: Enhancing Skin Cancer Diagnosis with Pre-trained Models: A Comparative Study Using HAM10K
+## Title: Skin Cancer Diagnosis with Pre-trained Models: A Comparative Study Using HAM10K
 
 
 ## Abstract
